@@ -1,5 +1,5 @@
 ### RikoSan - SelfBot
-- Current Features:
+Current Features:
 - Post Reddit images
 - Hypesquad Housechanger
 - Fun commands (Slap, Fuck)
